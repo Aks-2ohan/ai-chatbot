@@ -24,7 +24,7 @@ function sendMessage() {
 
   var typingEl = addMessageToScreen('ai', 'Typing...');
 
-  var API_KEY = 'AIzaSyClLPtmlRwftqJkauW3a2Mpum3wEUoK414';
+  var API_KEY = 'Your API key';
 
   var requestBody = {
     system_instruction: {
